@@ -2,6 +2,7 @@
 
 - **Version** : 1.20.30
 - **Dimensions** : 41x, 25y, 54z
+- **Number of Floors** : 2
 - **Texture** : [Faithful 32x v1.20 R9](https://faithfulpack.net/)
 - **Shader** : [BSL Shaders v8.2.02](https://bitslablab.com/bslshaders/)
 > :memo: **Note:** Keep the Y offset at -1.
