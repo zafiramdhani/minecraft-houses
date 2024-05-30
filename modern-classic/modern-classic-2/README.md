@@ -9,7 +9,7 @@
 > :memo: **Note:** Keep the Y offset at -1. <br>
 > ✔ Tested on Minecraft Java Edition 1.20.4
 
-![2024-05-30_11 09 16](https://github.com/zafiramdhani/minecraft-houses/assets/96897164/d92e503e-36b8-42a0-aa57-d5309955d005)
+![2024-05-30_12 58 32 (1)](https://github.com/zafiramdhani/minecraft-houses/assets/96897164/72a47690-842e-4e25-8728-a210e7203770)
 
 |||
 |:----:|:----:|
